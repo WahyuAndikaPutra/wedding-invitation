@@ -20,7 +20,7 @@ Website undangan pernikahan digital premium menggunakan Next.js 15, Framer Motio
 ### 1. Clone dan Install Dependency
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/WahyuAndikaPutra/wedding-invitation
 cd wedding-invitation
 npm install
 ```
